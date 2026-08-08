@@ -14,7 +14,7 @@ Each build produces two core outputs: a protein **FASTA** with standardized, sou
 
 The interactive guided maniFasta notebook supports source selection, user uploads, validation, taxonomy-output controls, live build output, and download of the complete run. No prepackaged sources are selected by default. The example button selects one source per module to demonstrate the workflow. Colab storage is temporary, so be sure to download the completed ZIP of your build before closing the runtime.
 
-**Latest stable version** (`v2026.219.2000`): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauffmanLab/maniFasta/blob/v2026.219.2000/maniFasta_on_GoogleColab.ipynb), or the **current version** (`main`): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauffmanLab/maniFasta/blob/main/maniFasta_on_GoogleColab.ipynb)
+**Latest stable version** (`v2026.220.1007`): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauffmanLab/maniFasta/blob/v2026.220.1007/maniFasta_on_GoogleColab.ipynb), or the **current version** (`main`): [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauffmanLab/maniFasta/blob/main/maniFasta_on_GoogleColab.ipynb)
 
 ### Running maniFasta at command line
 
