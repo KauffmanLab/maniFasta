@@ -1,0 +1,50 @@
+species	taxid	accession	fetch_source	note
+Entamoeba-associated CRESS DNA virus 1	2766561	MT293410.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 1	2766561	MT293411.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 1	2766561	MT293412.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Nimphelosvirus isildur	2956228	MT293413.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 2	2766562	MT293414.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 2	2766562	MT293415.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 3	2766563	MT293416.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 3	2766563	MT293417.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 4	2766564	MT293418.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 4	2766564	MT293419.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Entamoeba-associated CRESS DNA virus 4	2766564	MT293420.1	ncbi	Kinsella2020_CRESS_Entamoeba;PMID: 32934242 PMCID: PMC7493932 DOI: 10.1038/s41467-020-18474-w;.
+Human lung-associated brisavirus AA	2571075	MK059754.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human respiratory-associated brisavirus	3116878	MK059755.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated brisavirus MD	2571077	MK059756.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated brisavirus RC	2571078	MK059757.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human oral-associated brisavirus YH	2571086	MK059758.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human gut-associated brisavirus VW	2571073	MK059759.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus AL	2571079	MK059760.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus DC	2571080	MK059761.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus ES	2571081	MK059762.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus FB	2571082	MK059763.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus JB	2571083	MK059764.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus JY	2571084	MK059765.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human lung-associated vientovirus LT	2571085	MK059766.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human oral-associated vientovirus AV	2571087	MK059767.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human oral-associated vientovirus EC	2571088	MK059768.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human oral-associated vientovirus LZ	2571089	MK059769.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human oral-associated vientovirus MC	2571090	MK059770.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human oral-associated vientovirus XM	2571091	MK059771.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Human gut-associated vientovirus MW	2571074	MK059772.1	ncbi	Abbas2019_Redondoviridae;DOI: 10.1016/j.chom.2019.04.001;.
+Trichomonas vaginalis virus	29256	NC_003824.1	ncbi	Tai1995_Orthototiviridae;DOI:10.1016/S0042-6822(95)80008-5;.
+Malassezia sympodialis mycovirus	2766745	MN812428	ncbi	Clancey2020_Orthototiviridae;DOI:10.1128/mbio.01534-20;.
+Malassezia sympodialis mycovirus	2766745	MN831678	ncbi	Clancey2020_Orthototiviridae;DOI:10.1128/mbio.01534-20;.
+Totivirus nijyuroku	3432961	MN603497	ncbi	Park2025_Orthototiviridae;DOI:10.1128/mbio.01521-20;.
+Malassezia restricta virus MrV40S	2766745	MN603498	ncbi	Park2025_Orthototiviridae;DOI:10.1128/mbio.01521-20;.
+Pichia manshurica totivirus 1	3414160	PV394617.1	ncbi	Zhang_Song_2025_NCBI;https://www.ncbi.nlm.nih.gov/nuccore/PV394617.1;.
+Pichia manshurica totivirus 1	3414160	PV394616.1	ncbi	Zhang_Song_2025_NCBI;https://www.ncbi.nlm.nih.gov/nuccore/PV394617.1;.
+Pichia membranifaciens	2930201	OL687555.1	ncbi	Lee2022_Viruses;PMID: 35337001 PMCID: PMC8951182 DOI: 10.3390/v14030594;corrected from L687555.1 (dropped leading O)
+Pichia stipitis strain CBS 6054 endogenous virus	3152141	GQ291320.1	ncbi	TaylorBruenn_2009_BMCbiol;PMID: 20021636 PMCID: PMC2805616 DOI: 10.1186/1741-7007-7-88;Impose Totiviridae taxid 3152141 (record is host-filed endogenous element, taxon:4924)
+Pichia stipitis strain CBS 6054 endogenous virus	3152141	GQ291321.1	ncbi	TaylorBruenn_2009_BMCbiol;PMID: 20021636 PMCID: PMC2805616 DOI: 10.1186/1741-7007-7-88;Impose Totiviridae taxid 3152141 (record is host-filed endogenous element, taxon:4924)
+Saccharomyces cerevisiae virus L-A	11008	NC_003745.1	ncbi	Orthototiviridae_Saccharomyces_Reps;;refseq representative
+Saccharomyces cerevisiae virus L-A-2	1442158	KC677754	ncbi	Orthototiviridae_Saccharomyces_Reps;;nuccore rep (was blank); Gag-Pol+Gag complete cds
+Saccharomyces cerevisiae virus L-BC-2	1930605	KX906605	ncbi	Orthototiviridae_Saccharomyces_Reps;;nuccore rep (was blank); complete genome
+Saccharomyces cerevisiae virus L-BC (La)	42478	NC_001641.1	ncbi	Orthototiviridae_Saccharomyces_Reps;;pinned refseq (was resolving to GCF_000847405.1)
+Saccharomyces cerevisiae virus LBC	2993668	OL469176	ncbi	Orthototiviridae_Saccharomyces_Reps;;nuccore rep (was blank); only UNVERIFIED records exist for this taxid
+Saccharomyces cerevisiae virus LBCLa	2170233	OK377020	ncbi	Orthototiviridae_Saccharomyces_Reps;;pinned LBCLa isolate RC212 (was mislabeled as L-BC(La))
+Saccharomyces cerevisiae virus L-A-lus	1226531	JN819511	ncbi	Orthototiviridae_Saccharomyces_Reps;;nuccore rep (was blank)
+Saccharomyces cerevisiae virus L-A-28	1825500	KU845301	ncbi	Orthototiviridae_Saccharomyces_Reps;;nuccore rep (was blank); complete genome
+Saccharomyces cerevisiae virus L-BC-lus	1862312	KT784813	ncbi	Orthototiviridae_Saccharomyces_Reps;;nuccore rep (was blank); complete genome

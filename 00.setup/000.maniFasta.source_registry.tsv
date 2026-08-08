@@ -1,0 +1,99 @@
+# ==============================================================================
+# maniFasta source registry
+# One row defines one source. Set enabled=TRUE to include it in the next build.
+# ==============================================================================
+#
+# QUICK START
+#   1. Set enabled=TRUE for each packaged source you want to include.
+#   2. To add your own files, add a row with source_dir=00.setup and fill the
+#      appropriate input_list, fasta_file, or metadata_file column.
+#   3. Keep source_label unique among sources enabled in the same build.
+#
+# HOW TO POPULATE THE COLUMN FIELDS
+#
+# SOURCE ID    
+#   A unique label for the dataset, internal row key only — never appears in the output FASTA/metadata.
+#
+# ENABLED
+#   Indicates whether this input row should be included in the build
+#   TRUE or FALSE
+#
+# SOURCE_LABEL
+#   Written into every protein's FASTA header (src_db=) and the metadata >source< column. 
+#   Must be unique across any sources that could be enabled together in the same build.
+#
+# SOURCE_GROUP
+#   Written into every protein's FASTA header (group=). 
+#   A coarser bucket than source_label — for downstream grouping/summary tables.
+#   Safe to share across sources
+#
+# PATHS
+#   source_dir + input_list/fasta_file/metadata_file are joined as: <mainDIR>/<source_dir>/<filename>
+#   Common source_dir values: 99.prepackaged_inputs (curated inputs shipped with maniFasta) | 00.setup (your own run-specific files)
+#
+# MODULE  (what kind of source is this row?)
+#   mod_I    proteome / genome accessions  → input_list only
+#   mod_II   protein accessions            → input_list only
+#   mod_III  ready-made FASTA file         → fasta_file (+ optional metadata_file)
+#   mod_IV   built-in supported collection → collection (no input_list/fasta_file)
+#
+# COLLECTION  (mod_IV rows only — which built-in collection to fetch)
+#   human_uniprot | HOMD | cRAP
+#
+#   collection=human_uniprot options:
+#     protein_set=canonical                 SwissProt only, reviewed            (~20k seqs)
+#     protein_set=canonical_isoform         + reviewed isoforms                 (~42k seqs)
+#     protein_set=canonical_isoform_trembl  + isoforms + TrEMBL (unreviewed)    (~250k+ seqs)
+#     [default: canonical]
+#     download=true|false                   [default: true]
+#
+#   collection=HOMD options:
+#     genomic_refseq_version=<e.g. V11.03>  falls back to the VERSION column if omitted
+#     sites=oral                            body-site filter
+#     rank=species|genus|family             1 representative genome per group (omit = no dereplication)
+#     download=true|false                   [default: true]
+#
+#   collection=cRAP options:
+#     set=ccp                               [default: ccp]
+#
+# OPTIONS  (mod_I / mod_II rows — which backend to fetch from)
+#   fetch_source=ncbi|uniprot|uniparc|pdb   [default: ncbi]
+#   uniparc/pdb are protein-accession-only backends → mod_II rows only
+#   A per-row fetch_source column inside the input_list file itself overrides
+#   this for individual rows (lets one file mix backends).
+#
+# FORMAT
+#   options column = key=value;key=value  (semicolon-separated)
+#   version / citation / notes are free text, for your own reference only
+#
+# ══════════════════════════════════════════════════════════════════════════
+
+source_id	enabled	source_label	source_group	module	collection	source_dir	input_list	fasta_file	metadata_file	options	version	citation	notes
+
+## Module I inputs
+FUNGI	FALSE	FUNGI	fungi	mod_I		99.prepackaged_inputs	MOD-I.AllOralsDB.fungi.v2026.198.tsv						Fungi detected in the oral samples.
+MICROEUK_ENTAMOEBA	FALSE	ENTAMOEBA	microeuks	mod_I		99.prepackaged_inputs	MOD-I.AllOralsDB.entamoeba.v2026.198.tsv						Proxy for Entamoeba gingivalis; E. gingivalis genome unavailable in NCBI therefore include genomes of other Entamoeba species.
+VIRUSES_HUMAN	FALSE	VIRUSES_HUMAN	viruses	mod_I		99.prepackaged_inputs	MOD-I.AllOralsDB.viruses_humans.v2026.198.tsv						Viruses that infect humans and have been detected in oral samples; sources include ViralZone (https://viralzone.expasy.org) and the Human Virus Database (http://computationalbiology.cn/humanVirusBase/).
+VIRUSES_FUNGAL_MICROEUK	FALSE	VIRUSES_FUNGAL_MICROEUK	viruses	mod_I		99.prepackaged_inputs	MOD-I.AllOralsDB.viruses_microeuks.v2026.198.tsv						Viruses that infect fungi and other microeukaryotes; sources include Kinsella et al. and Keeler et al.
+VIRUSES_DIETARY	FALSE	VIRUSES_DIETARY	viruses	mod_I		99.prepackaged_inputs	MOD-I.AllOralsDB.viruses_dietary.v2026.198.tsv						Viruses infecting plants and tobacco products, detected in oral samples; sources include Aguado-García et al., Rivera-Gutierrez 2023 et al., and literature survey.
+
+## Module II inputs
+VIRUSES_HERVS	FALSE	VIRUSES_HERVS	viruses	mod_II		99.prepackaged_inputs	MOD-II.AllOralsDB.viruses_HERVs.v2026.198.tsv			lineage_taxid_override=206037			Human endogenous retrovirus (HERV) proteins.
+ALLERGENONLINE_V24	FALSE	ALLERGENS	allergens	mod_II		99.prepackaged_inputs	MOD-II.AllergenOnlineV24.v2026.215.tsv				V24	10.1002/mnfr.201500769	AllergenOnline v24. Current limitation: 118 entries represented by PDB chain accessions are excluded by the fetcher.
+HSP2	FALSE	HSP2	human_salivary	mod_II		99.prepackaged_inputs	MOD-II.HSP2.0.v2026.198.tsv				HSP2.0	https://salivaryproteome.org/salivary-protein	HSP2.0 accession list retrieved June 18, 2026.
+
+## Module III inputs
+MICROEUK_TTENAX	FALSE	TTENAX	microeuks	mod_III		99.prepackaged_inputs		MOD-III.Mpeyako2024.trichomonas.v2026.198.fasta	MOD-III.Mpeyako2024.trichomonas.v2026.198.tsv		Mpeyako_etal_2024	10.3389/fmicb.2024.1437572	Proteins identified and provided by Mpeyako et al. as Supplementary Table 2 and Supplementary Data 3.
+OBELISKS_ORAL	FALSE	OBELISKS_ORAL	obelisks	mod_III		99.prepackaged_inputs		MOD-III.Zheludev2024.obelisks_ORAL.v2026.215.fasta	MOD-III.Zheludev2024.obelisks_ORAL.v2026.198.tsv		Zheludev_etal_2024	10.25740/WB363NT3637	Subset of proteins from protein calls for Obelisk genomes identified by Zheludev (their Supp Table 2), filtered and reviewed to include only Obelisk proteins from oral/oral-proximal datasets (27 of 11,581 pyrodigal ORFs).
+DAIRY_DB	FALSE	DAIRY	food	mod_III		99.prepackaged_inputs		MOD-III.Dairy_DB.SUBSET-151.fasta	MOD-III.Dairy_DB.SUBSET-151.tsv		Hendy_2019	10.15124/589742eb-287a-4576-a00a-30df33d9f52c	Subset of proteins provided by Hendy et al. as curated dairy proteins, developed for their study of ancient dental calculus, Wilkin et al. 2020.
+OBELISKS	FALSE	OBELISKS	obelisks	mod_III		99.prepackaged_inputs		MOD-III.Zheludev2024.obelisks.v2026.215.fasta	MOD-III.Zheludev2024.obelisks.v2026.198.tsv		Zheludev_etal_2024	10.25740/WB363NT3637	All 11,581 Pyrodigal ORFs predicted for Obelisk genomes identified by Zheludev and reported in their Supplementary Table 2.
+
+## Module IV inputs
+HUMAN_C	FALSE	HUMAN_C	human	mod_IV	human_uniprot					protein_set=canonical			Reviewed canonical human proteins.
+HUMAN_CI	FALSE	HUMAN_CI	human	mod_IV	human_uniprot					protein_set=canonical_isoform			Reviewed canonical human proteins and isoforms.
+HUMAN_CIT	FALSE	HUMAN_CIT	human	mod_IV	human_uniprot					protein_set=canonical_isoform_trembl			Reviewed canonical proteins, isoforms, and unreviewed TrEMBL proteins.
+HOMD_ORAL_A	FALSE	HOMD_ORAL_A	bacteria_archaea	mod_IV	HOMD					genomic_refseq_version=V11.03;sites=oral;download=true	V11.03	homd.org	HOMD PROKKA proteomes filtered to oral body site
+HOMD_ORAL_S	FALSE	HOMD_ORAL_S	bacteria_archaea	mod_IV	HOMD					genomic_refseq_version=V11.03;sites=oral;download=true;rank=species	V11.03	homd.org	HOMD PROKKA proteomes filtered to oral body site, only include 1 representative genome from each oral species.
+HOMD_ORAL_G	FALSE	HOMD_ORAL_G	bacteria_archaea	mod_IV	HOMD					genomic_refseq_version=V11.03;sites=oral;download=true;rank=genus	V11.03	homd.org	HOMD PROKKA proteomes filtered to oral body site, only include 1 representative genome from each oral genus.
+HOMD_ORAL_F	FALSE	HOMD_ORAL_F	bacteria_archaea	mod_IV	HOMD					genomic_refseq_version=V11.03;sites=oral;download=true;rank=family	V11.03	homd.org	HOMD PROKKA proteomes filtered to oral body site, only include 1 representative genome from each oral family.
+CRAP_CCP	FALSE	CRAP	contaminants	mod_IV	cRAP					set=ccp		10.5281/ZENODO.15115102	Cambridge Centre for Proteomics cRAP set.

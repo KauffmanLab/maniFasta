@@ -1,0 +1,189 @@
+species	taxid	accession	fetch_source	note
+Alphacoronavirus 1	693997		ncbi	
+Alphapapillomavirus 10	333754		ncbi	
+Alphapapillomavirus 14	931244		ncbi	
+Alphapapillomavirus 2	337039		ncbi	
+Alphapapillomavirus 4	337043		ncbi	
+Alphapapillomavirus 9	337041		ncbi	
+Alphapolyomavirus octihominis	1891727		ncbi	
+Alphapolyomavirus quintihominis	1891726		ncbi	
+Anellovirus cya/2019	2749445	MT501646	ncbi	
+Anellovirus cyb/2019	2749446	MT501649	ncbi	
+Anellovirus cyc/2019	2749447	MT501653	ncbi	
+Astrovirus MLB3	1247114		ncbi	
+Avian coronavirus	694014		ncbi	
+Betacoronavirus	694002		ncbi	
+Betacoronavirus 1	694003		ncbi	
+Betapapillomavirus 1	337051		ncbi	
+Betapapillomavirus 2	333924		ncbi	
+Betapapillomavirus 3	334207		ncbi	
+Betapapillomavirus 4	334208		ncbi	
+Betapolyomavirus hominis	1891762		ncbi	
+Betapolyomavirus quartihominis	1891765		ncbi	
+Betapolyomavirus secuhominis	1891763		ncbi	
+Betapolyomavirus tertihominis	1891764		ncbi	
+Bocaparvovirus primate1	3052040		ncbi	
+Bocaparvovirus primate2	3052041		ncbi	
+Brisavirus	2732654		ncbi	
+Cardiovirus A	1821749		ncbi	
+Cardiovirus B	1821750		ncbi	
+Cardiovirus D	2734523		ncbi	
+Chikungunya virus	37124		ncbi	
+Circoviridae sp.	1954248		ncbi	
+Coronavirus cya-BetaCoV/2019	2749448		ncbi	
+Coronavirus cyb-BetaCoV/2019	2749449		ncbi	
+Coronavirus cyc-BetaCoV/2019	2749450		ncbi	
+Cowpox virus	10243		ncbi	
+Coxsackievirus A	138948		ncbi	
+Enterovirus 71 	39054	HQ400942	ncbi	
+Cyclovirus sp.	1983780		ncbi	
+Cytomegalovirus humanbeta5	3050295		ncbi	
+Deltapolyomavirus decihominis	1208309		ncbi	
+Deltapolyomavirus undecihominis	1891745		ncbi	
+Dengue virus	12637		ncbi	
+Dependoparvovirus primate1	1511891		ncbi	
+Ebola virus	1570291		ncbi	
+Enterovirus A	138948		ncbi	
+Enterovirus B	138949		ncbi	
+Enterovirus C	138950		ncbi	
+Enterovirus D	138951		ncbi	
+Enterovirus sp.	47681		ncbi	
+Enteroviruses	12059		ncbi	
+Epstein-Barr virus	10376	NC_007605	ncbi	
+Erythroparvovirus primate1	3052189		ncbi	
+Gammapapillomavirus 1	333926		ncbi	
+Gammapapillomavirus 11	1513256		ncbi	
+Gammapapillomavirus 12	1513257		ncbi	
+Gammapapillomavirus 22	1961679		ncbi	
+Gammapapillomavirus 24	1961681		ncbi	
+Gammapapillomavirus 3	333929		ncbi	
+Gemycircularvirus CN-GZ1	2583509	MH427642	ncbi	
+Gemycircularvirus HV-GcV1	1862824		ncbi	
+Gemycircularvirus sp.	1983771		ncbi	
+Haseki tick virus	2712269	MW808978	ncbi	
+Hendra henipavirus	3052223		ncbi	
+Henipavirus nipahense	3052225		ncbi	
+Hepatitis A virus	12092	NC_001489	ncbi	
+Hepatitis B virus	10407		ncbi	
+Hepatitis C virus	3052230		ncbi	
+Herpes simplex virus 1	10298		ncbi	
+Herpes simplex virus 2	10310		ncbi	
+Human adenovirus sp.	1907210		ncbi	
+Human alphaherpesvirus 1	10298		ncbi	
+Human alphaherpesvirus 2	10310		ncbi	
+Human alphaherpesvirus 3	10335		ncbi	
+Human associated cyclovirus 10	2038728		ncbi	
+Human betaherpesvirus 5	10359		ncbi	
+Human betaherpesvirus 6	10368	KY315532	ncbi	
+Human betaherpesvirus 6A	32603		ncbi	
+Human betaherpesvirus 6B	32604		ncbi	
+Human betaherpesvirus 7	10372		ncbi	
+Human bocavirus	329641	NC_007455	ncbi	
+Human coronavirus	694448	NC_002645	ncbi	
+Human coronavirus 229E	11137		ncbi	
+Human coronavirus HKU1	290028		ncbi	
+Human coronavirus KUMC22-3	3161185	PP868300	ncbi	
+Human coronavirus NL63	277944		ncbi	
+Human cytomegalovirus	10359	NC_001347	ncbi	
+Human enterovirus	1193974	MH933845	ncbi	
+human gammaherpesvirus 4	10376		ncbi	
+Human gammaherpesvirus 8	37296		ncbi	
+Human herpesvirus 1	10298	NC_001806	ncbi	
+Human herpesvirus 6	10368	NC_001664	ncbi	
+Human herpesvirus 7	10372	NC_001716	ncbi	
+Human herpesvirus 8	37296	NC_009333	ncbi	
+Human immunodeficiency virus	12721		ncbi	
+Human immunodeficiency virus 1	11676		ncbi	
+Human mastadenovirus A	129875		ncbi	
+Human mastadenovirus B	108098		ncbi	
+Human mastadenovirus C	129951		ncbi	
+Human mastadenovirus D	130310		ncbi	
+Human mastadenovirus E	130308		ncbi	
+Human mastadenovirus F	130309		ncbi	
+Human metapneumovirus	162145	NC_004148	ncbi	
+Human orthopneumovirus	11250		ncbi	
+Human orthorubulavirus 2	2560525		ncbi	
+Human orthorubulavirus 4	2560526		ncbi	
+Human papillomavirus	10566	NC_001526	ncbi	
+Human parechovirus 1B	3092269	OR728261	ncbi	
+Human parvovirus B19	10798	NC_000883	ncbi	
+Human picobirnavirus	145856		ncbi	
+Human polyomavirus 6	746830		ncbi	
+Human polyomavirus 9	943908		ncbi	
+Human PoSCV5-like circular virus	1965018		ncbi	
+Human respiratory circovirus-like 1	2714898	MK674279	ncbi	
+Human respiratory circovirus-like 2	2714899	MK674280	ncbi	
+Human respiratory circular DNA virus	2057509	MN535745	ncbi	
+human respiratory syncytial virus	11250		ncbi	
+Human respirovirus 1	12730		ncbi	
+Human respirovirus 3	11216		ncbi	
+Human rhinovirus A, B, C (HRV) ECDC	147711	NC_001617	ncbi	
+Human rhinovirus sp.	169066	X01087	ncbi	
+Influenza A virus	11320		ncbi	
+Influenza B virus	11520		ncbi	
+Influenza C virus	11552	GCF_000856665	ncbi	
+JC polyomavirus	10632	NC_001699	ncbi	
+KI Polyomavirus	1891764	NC_009238	ncbi	
+Lymphocryptovirus humangamma4	3050299		ncbi	
+Lyssavirus rabies	11292		ncbi	
+Mammarenavirus choriomeningitidis	3052303		ncbi	
+Mammarenavirus lassaense	3052310		ncbi	
+Mastadenovirus sp.	2050578		ncbi	
+Measles morbillivirus	11234		ncbi	
+Merkel cell polyomavirus	493803	NC_010277	ncbi	
+MERS coronavirus	1335626	NC_019843	ncbi	
+Metapneumovirus hominis	3048148		ncbi	
+Middle East respiratory syndrome-related coronavirus	1335626		ncbi	
+Monkeypox virus	10244		ncbi	
+Morbillivirus hominis	3052345		ncbi	
+Mumps orthorubulavirus	2560602		ncbi	
+Nipah virus	3052225	NC_002728	ncbi	
+Norovirus	142786		ncbi	
+Norwalk virus	11983		ncbi	
+Orthoflavivirus nilense	3048448		ncbi	
+Orthohantavirus puumalaense	3052493		ncbi	
+Orthomarburgvirus marburgense	3052505		ncbi	
+Orthopicobirnavirus hominis	2956252		ncbi	
+Orthopneumovirus hominis	3049954		ncbi	
+Parechovirus A	1803956		ncbi	
+Pegivirus hominis	3052608		ncbi	
+Poliovirus	138950	NC_002058	ncbi	
+Polyomavirus	36362		ncbi	
+Primate T-lymphotropic virus 1	194440		ncbi	
+Protoparvovirus sp.	1987106	PQ310103	ncbi	human oral isolate sequence
+human respiratory syncytial virus	11250	NC_001781	ncbi	
+Respirovirus laryngotracheitidis	3049952		ncbi	
+Respirovirus pneumoniae	3049953		ncbi	
+Rhinovirus A	147711		ncbi	
+Rhinovirus B	147712		ncbi	
+Rhinovirus C	463676		ncbi	
+Roseolovirus humanbeta7	3050298		ncbi	
+Rotavirus A	28875		ncbi	
+Rubella virus	11041	NC_001545	ncbi	
+Salivirus A	1330524		ncbi	
+Severe acute respiratory syndrome coronavirus	2901879		ncbi	
+Simian foamy virus	11642		ncbi	
+Simplexvirus humanalpha1	3050292		ncbi	
+Small anellovirus	393049		ncbi	
+Variola virus	10255	NC_001611	ncbi	
+St. Louis encephalitis virus	11080		ncbi	
+Statovirus sp.	2747383	OR367719	ncbi	
+Tetraparvovirus primate1	3052770		ncbi	
+Torque teno midi virus	432261	MN165095	ncbi	
+Torque teno mini virus	93678		ncbi	
+Torque teno mini virus ALA22	1535290		ncbi	
+Torque teno mini virus ALH8	1535291		ncbi	
+Torque teno virus	68887		ncbi	
+Torque teno virus 13	687352		ncbi	
+Torque teno virus 16	687355		ncbi	
+Torque teno virus 24	687363		ncbi	
+Torque teno virus 5	687344		ncbi	
+TTV-like mini virus	93678		ncbi	
+Vaccinia virus	10245		ncbi	
+Varicella-zoster virus	10335	NC_001348	ncbi	
+Varicellovirus humanalpha3	3050294		ncbi	
+Vesiculovirus chandipura	1972576		ncbi	
+Vientovirus	2732655		ncbi	
+Cytomegalovirus	10358		ncbi	
+Zaire ebolavirus	186538		ncbi	
+Zika virus	64320		ncbi	

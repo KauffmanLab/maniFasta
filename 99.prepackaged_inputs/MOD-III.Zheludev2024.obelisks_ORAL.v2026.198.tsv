@@ -1,0 +1,28 @@
+protein_id	source	ncbi_taxid	genus	species	strain_or_gene	assembly	description	source_accession
+Obelisk_000003_000001_000001_1	OBELISK	32644	NA	NA	Ssanguinis	Obelisk_000003_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=Streptococcus sanguinis | notes=.	SRR11790914
+Obelisk_000004_000001_000001_1	OBELISK	32644	NA	NA	gamma	Obelisk_000004_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=viral metagenome | notes=.	ERR3178735
+Obelisk_000004_000001_000001_2	OBELISK	32644	NA	NA	gamma	Obelisk_000004_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=viral metagenome | notes=.	ERR3178735
+Obelisk_000006_000001_000002_1	OBELISK	32644	NA	NA	epsilon	Obelisk_000006_000001_000002	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000006_000002_000001_1	OBELISK	32644	NA	NA	epsilon	Obelisk_000006_000002_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002569
+Obelisk_000006_000003_000001_1	OBELISK	32644	NA	NA	epsilon	Obelisk_000006_000003_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=upper respiratory tract metagenome | notes=.	SRR10221878
+Obelisk_000006_000003_000002_1	OBELISK	32644	NA	NA	epsilon	Obelisk_000006_000003_000002	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002547
+Obelisk_000006_000004_000001_1	OBELISK	32644	NA	NA	epsilon	Obelisk_000006_000004_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002575
+Obelisk_000009_000001_000001_1	OBELISK	32644	NA	NA	theta	Obelisk_000009_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000010_000001_000001_1	OBELISK	32644	NA	NA	iota	Obelisk_000010_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000010_000001_000002_1	OBELISK	32644	NA	NA	iota	Obelisk_000010_000001_000002	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=Homo sapiens | notes=.	SRR10173250
+Obelisk_000010_000001_000003_1	OBELISK	32644	NA	NA	iota	Obelisk_000010_000001_000003	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002570
+Obelisk_000010_000001_000004_1	OBELISK	32644	NA	NA	iota	Obelisk_000010_000001_000004	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002578
+Obelisk_000011_000001_000003_1	OBELISK	32644	NA	NA	kappa	Obelisk_000011_000001_000003	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000011_000001_000003_2	OBELISK	32644	NA	NA	kappa	Obelisk_000011_000001_000003	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000012_000001_000001_1	OBELISK	32644	NA	NA	lambda	Obelisk_000012_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000012_000001_000001_2	OBELISK	32644	NA	NA	lambda	Obelisk_000012_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000013_000001_000001_1	OBELISK	32644	NA	NA	mu	Obelisk_000013_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000013_000001_000001_2	OBELISK	32644	NA	NA	mu	Obelisk_000013_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000014_000001_000001_1	OBELISK	32644	NA	NA	nu	Obelisk_000014_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=centroid and member manually swapped as member gave more intact Oblin-1 prediction via prodigal	SRR11002570
+Obelisk_000014_000001_000002_1	OBELISK	32644	NA	NA	nu	Obelisk_000014_000001_000002	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000015_000001_000001_1	OBELISK	32644	NA	NA	xi	Obelisk_000015_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=human oral metagenome | notes=.	PRJNA678453
+Obelisk_000307_000001_000001_1	OBELISK	32644	NA	NA	.	Obelisk_000307_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=Homo sapiens | notes=Note, this Obelisk shows a hit Pfam hit to Secretin_N and as such, may be a chimeric mis-assembly	SRR10907019
+Obelisk_000307_000001_000001_2	OBELISK	32644	NA	NA	.	Obelisk_000307_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=Homo sapiens | notes=Note, this Obelisk shows a hit Pfam hit to Secretin_N and as such, may be a chimeric mis-assembly	SRR10907019
+Obelisk_001132_000001_000001_1	OBELISK	32644	NA	NA	.	Obelisk_001132_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002571
+Obelisk_001132_000001_000002_1	OBELISK	32644	NA	NA	.	Obelisk_001132_000001_000002	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002570
+Obelisk_001702_000001_000001_1	OBELISK	32644	NA	NA	.	Obelisk_001702_000001_000001	Zheludev et al. 2024 doi:10.1016/j.cell.2024.09.033 | sample_type=metagenome | notes=.	SRR11002570

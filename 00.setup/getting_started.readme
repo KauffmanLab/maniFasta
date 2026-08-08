@@ -1,0 +1,20 @@
+Hello User,
+
+We are glad you are using maniFasta! 
+ 
+Here are a few key things you need to know to run maniFasta:
+
+ 1) If you wish to include your own inputs for any of the modules (e.g. list of proteome or genome accessions for Mod I, list of protein accessions for Mod II, FASTA files for Mod III along with optional metadata), then you will need to:
+ - add your files to the 00.setup directory
+ - reference these files in the 000.maniFasta.source_registry.tsv by adding new rows to represent them as sources
+
+ 2) You will need to review and edit the following three files, which live in 00.setup:
+ - 000.maniFasta.config: here you will define global variables for your run, including path to the directory, your DB name, the prefix you want used for all proteins in your output fasta, as well as any configurations relevant to your hpcc.
+ - 000.maniFasta.local.env: here you will enter path to ncbi-datasets-cli, a tool you will need available on your system, as well as enter NCBI credentials, which will accelerate fetch speeds.
+ - 000.maniFasta.source_registry.tsv: this file defines the contents of your database and you can either select to enable inclusion of pre-packaged inputs (by changing a label to TRUE from FALSE), or add new rows that point to your own inputs (see next).
+ 
+ 3) Once the above are in place all you need to do to generate your database is
+ - on a hpc: "bash 01.submit_runBuild_db.sh" from the 01.scripts directory.
+ - direct run: "bash runBuild_db.sh"
+
+ We hope maniFasta works well for you, and welcome feedback on how to improve it.

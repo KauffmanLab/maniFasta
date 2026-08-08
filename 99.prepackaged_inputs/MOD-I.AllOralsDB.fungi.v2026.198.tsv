@@ -1,0 +1,19 @@
+species	taxid	accession	fetch_source	note
+Aspergillus fumigatus	746128	GCF_000002655.1	ncbi	Af293
+Candida albicans	5476	GCF_000182965.3	ncbi	SC5314
+Candida dubliniensis	42374	GCF_000026945.1	ncbi	CD36
+Candida parapsilosis	5480	GCF_000182765.1	ncbi	CDC317
+Candida tropicalis	5482	GCF_000006335.3	ncbi	MYA-3404
+Clavispora lusitaniae	36911	GCF_000003835.1	ncbi	ATCC 42720; formerly Candida lusitaniae
+Cryptococcus neoformans	5207	GCF_000149245.1	ncbi	H99
+Kluyveromyces lactis	28985	GCF_000002515.2	ncbi	NRRL Y-1140
+Lodderomyces elongisporus	379508	GCF_000149685.1	ncbi	NRRL YB-4239
+Meyerozyma guilliermondii	4929	GCF_000149425.1	ncbi	ATCC 6260; formerly Candida guilliermondii
+Nakaseomyces glabratus	5478	GCA_002087555.1	ncbi	Bg11; aka Candida glabrata
+Pichia kudriavzevii	4909	GCF_003054445.1	ncbi	CBS573; aka Candida krusei
+Rhodotorula mucilaginosa	5537	GCA_016584205.1	ncbi	strain KR; GCF_011034845.1 suppressed
+Saccharomyces cerevisiae	4932	GCF_000146045.2	ncbi	S288C
+Yarrowia lipolytica	4952	GCF_000002525.2	ncbi	CLIB122
+Malassezia globosa	76773	GCF_000181695.2	ncbi	CBS 7966
+Malassezia restricta	76775	GCF_003290485.1	ncbi	KCTC 27527
+Malassezia sympodialis	76777	GCF_000349305.1	ncbi	CANK01

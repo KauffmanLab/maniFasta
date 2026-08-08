@@ -1,0 +1,14 @@
+# Local files
+000.maniFasta.local.env
+
+# Build output directories
+2026*/
+
+# Local files
+taxid_lineage_cache*
+__pycache__/
+99.oldruns/
+IGNOREme*
+
+# SLURM logs
+slurm-*.out

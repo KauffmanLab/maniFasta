@@ -1,0 +1,152 @@
+protein_id	source	ncbi_taxid	genus	species	description
+tr|E7E1Q4|E7E1Q4_BOSIN		9915	Bos	indicus	Beta-lactoglobulin (Fragment) OS=Bos indicus OX=9915 GN=LGB PE=3 SV=1
+tr|A0A0M3R8F9|A0A0M3R8F9_BOSIN		9915	Bos	indicus	Beta casein (Fragment) OS=Bos indicus OX=9915 GN=CSN2 PE=4 SV=1
+tr|A0A1U9XAP1|A0A1U9XAP1_BOSIN		9915	Bos	indicus	Beta-casein OS=Bos indicus OX=9915 PE=3 SV=1
+tr|A0A1U9XAP9|A0A1U9XAP9_BOSIN		9915	Bos	indicus	Beta-casein OS=Bos indicus OX=9915 PE=3 SV=1
+tr|A0A1U9XAQ0|A0A1U9XAQ0_BOSIN		9915	Bos	indicus	Beta-casein OS=Bos indicus OX=9915 PE=3 SV=1
+tr|A1YT08|A1YT08_BOSIN		9915	Bos	indicus	Beta-casein (Fragment) OS=Bos indicus OX=9915 GN=CSN2 PE=4 SV=1
+tr|A8W912|A8W912_BOSIN		9915	Bos	indicus	Alpha lactalbumin OS=Bos indicus OX=9915 PE=3 SV=1
+tr|A9QXV0|A9QXV0_BOSIN		9915	Bos	indicus	Kappa-casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|A9YY83|A9YY83_BOSIN		9915	Bos	indicus	Beta casein (Fragment) OS=Bos indicus OX=9915 PE=4 SV=1
+tr|B1A4S9|B1A4S9_BOSIN		9915	Bos	indicus	Alpha-lactalbumin OS=Bos indicus OX=9915 PE=3 SV=1
+tr|B6CXY7|B6CXY7_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|B6CXY8|B6CXY8_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|B6CXY9|B6CXY9_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|B6CXZ1|B6CXZ1_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|E7E1P5|E7E1P5_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|E7E1P6|E7E1P6_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|E7E1Q0|E7E1Q0_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|E7E1Q2|E7E1Q2_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|E7E1Q3|E7E1Q3_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|E7E1Q5|E7E1Q5_BOSIN		9915	Bos	indicus	Beta-lactoglobulin (Fragment) OS=Bos indicus OX=9915 GN=LGB PE=3 SV=1
+tr|G8FV41|G8FV41_BOSIN		9915	Bos	indicus	Beta-casein (Fragment) OS=Bos indicus OX=9915 GN=csn2 PE=4 SV=1
+tr|I1VE26|I1VE26_BOSIN		9915	Bos	indicus	Beta-casein (Fragment) OS=Bos indicus OX=9915 GN=CSN2 PE=4 SV=1
+tr|Q155X5|Q155X5_BOSIN		9915	Bos	indicus	Beta casein (Fragment) OS=Bos indicus OX=9915 PE=4 SV=1
+tr|Q6UN62|Q6UN62_BOSIN		9915	Bos	indicus	Beta-casein variant A2' (Fragment) OS=Bos indicus OX=9915 PE=4 SV=1
+tr|Q7M3F3|Q7M3F3_BOSIN		9915	Bos	indicus	Alpha-lactalbumin OS=Bos indicus OX=9915 PE=3 SV=1
+tr|V5RMG9|V5RMG9_BOSIN		9915	Bos	indicus	Kappa casein (Fragment) OS=Bos indicus OX=9915 GN=CSN3 PE=4 SV=1
+tr|L8I5S0|L8I5S0_9CETA		72004	Bos	mutus	Alpha-S1-casein (Fragment) OS=Bos mutus OX=72004 GN=M91_02163 PE=4 SV=1
+tr|L8I6J3|L8I6J3_9CETA		72004	Bos	mutus	Alpha-S2-casein (Fragment) OS=Bos mutus OX=72004 GN=M91_02161 PE=4 SV=1
+tr|L8IBY3|L8IBY3_9CETA		72004	Bos	mutus	Lactotransferrin (Fragment) OS=Bos mutus OX=72004 GN=M91_11266 PE=4 SV=1
+tr|L8IIC8|L8IIC8_9CETA		72004	Bos	mutus	Alpha-lactalbumin OS=Bos mutus OX=72004 GN=M91_03089 PE=3 SV=1
+tr|L8IIT8|L8IIT8_9CETA		72004	Bos	mutus	Kappa-casein OS=Bos mutus OX=72004 GN=M91_14598 PE=3 SV=1
+tr|L8J1Z0|L8J1Z0_9CETA		72004	Bos	mutus	Beta-lactoglobulin OS=Bos mutus OX=72004 GN=M91_09811 PE=3 SV=1
+tr|D3Y646|D3Y646_BOSMU		30521	Bos	mutus	Kappa-casein (Fragment) OS=Bos mutus grunniens OX=30521 PE=4 SV=1
+tr|D4P2Z5|D4P2Z5_BOSMU		30521	Bos	mutus	Alpha-lactalbumin OS=Bos mutus grunniens OX=30521 PE=2 SV=1
+tr|F5BHA8|F5BHA8_BOSMU		30521	Bos	mutus	Beta-casein (Fragment) OS=Bos mutus grunniens OX=30521 GN=CSN2 PE=4 SV=1
+tr|G8FVU5|G8FVU5_BOSMU		30521	Bos	mutus	Alpha-lactalbumin OS=Bos mutus grunniens OX=30521 PE=3 SV=1
+tr|H2DZG3|H2DZG3_BOSMU		30521	Bos	mutus	Beta-casein (Fragment) OS=Bos mutus grunniens OX=30521 GN=CSN2 PE=4 SV=1
+tr|H6V8K2|H6V8K2_BOSMU		30521	Bos	mutus	Beta-lactoglobulin (Fragment) OS=Bos mutus grunniens OX=30521 GN=LGB PE=3 SV=1
+tr|H6V8K4|H6V8K4_BOSMU		30521	Bos	mutus	Beta-lactoglobulin (Fragment) OS=Bos mutus grunniens OX=30521 GN=LGB PE=3 SV=1
+tr|I6UFY2|I6UFY2_BOSMU		30521	Bos	mutus	Kappa-casein OS=Bos mutus grunniens OX=30521 GN=CSN3 PE=2 SV=1
+tr|Q8MIR3|Q8MIR3_BOSMU		30521	Bos	mutus	Kappa-casein long form (Fragment) OS=Bos mutus grunniens OX=30521 GN=CSN3 PE=4 SV=1
+sp|Q9TSR4|LALBA_BOSMU		30521	Bos	mutus	Alpha-lactalbumin OS=Bos mutus grunniens OX=30521 GN=LALBA PE=2 SV=1
+tr|A0A140T8A9|A0A140T8A9_BOVIN		9913	Bos	taurus	Kappa-casein OS=Bos taurus OX=9913 GN=CSN3 PE=3 SV=1
+tr|A3FJ56|A3FJ56_BOVIN		9913	Bos	taurus	Kappa casein (Fragment) OS=Bos taurus OX=9913 PE=4 SV=1
+tr|B5B3R8|B5B3R8_BOVIN		9913	Bos	taurus	Alpha S1 casein OS=Bos taurus OX=9913 GN=CSN1S1 PE=2 SV=1
+tr|B6V3I5|B6V3I5_BOVIN		9913	Bos	taurus	Alpha-lactalbumin OS=Bos taurus OX=9913 PE=2 SV=1
+tr|B9VPZ5|B9VPZ5_BOVIN		9913	Bos	taurus	Lactoferrin OS=Bos taurus OX=9913 GN=LF PE=2 SV=1
+tr|E7E1P7|E7E1P7_BOVIN		9913	Bos	taurus	Kappa casein (Fragment) OS=Bos taurus OX=9913 GN=CSN3 PE=4 SV=1
+tr|E7E1P8|E7E1P8_BOVIN		9913	Bos	taurus	Kappa casein (Fragment) OS=Bos taurus OX=9913 GN=CSN3 PE=4 SV=1
+tr|E7E1Q1|E7E1Q1_BOVIN		9913	Bos	taurus	Kappa casein (Fragment) OS=Bos taurus OX=9913 GN=CSN3 PE=4 SV=1
+tr|G9G9X6|G9G9X6_BOVIN		9913	Bos	taurus	Alpha-lactalbumin protein variant D OS=Bos taurus OX=9913 GN=LALBA PE=3 SV=1
+tr|J9UHS4|J9UHS4_BOVIN		9913	Bos	taurus	Beta-casein (Fragment) OS=Bos taurus OX=9913 GN=CSN2 PE=4 SV=1
+sp|P00711|LALBA_BOVIN		9913	Bos	taurus	Alpha-lactalbumin OS=Bos taurus OX=9913 GN=LALBA PE=1 SV=2
+sp|P02662|CASA1_BOVIN		9913	Bos	taurus	Alpha-S1-casein OS=Bos taurus OX=9913 GN=CSN1S1 PE=1 SV=2
+sp|P02663|CASA2_BOVIN		9913	Bos	taurus	Alpha-S2-casein OS=Bos taurus OX=9913 GN=CSN1S2 PE=1 SV=2
+sp|P02666|CASB_BOVIN		9913	Bos	taurus	Beta-casein OS=Bos taurus OX=9913 GN=CSN2 PE=1 SV=2
+sp|P02668|CASK_BOVIN		9913	Bos	taurus	Kappa-casein OS=Bos taurus OX=9913 GN=CSN3 PE=1 SV=1
+sp|P02754|LACB_BOVIN		9913	Bos	taurus	Beta-lactoglobulin OS=Bos taurus OX=9913 GN=LGB PE=1 SV=3
+sp|P24627|TRFL_BOVIN		9913	Bos	taurus	Lactotransferrin OS=Bos taurus OX=9913 GN=LTF PE=1 SV=2
+tr|Q28049|Q28049_BOVIN		9913	Bos	taurus	Alpha lactalbumin (Fragment) OS=Bos taurus OX=9913 GN=alfaLA PE=3 SV=1
+tr|Q5ZET1|Q5ZET1_BOVIN		9913	Bos	taurus	Kappa-casein (Fragment) OS=Bos taurus OX=9913 GN=csn3 PE=4 SV=1
+tr|Q705V4|Q705V4_BOVIN		9913	Bos	taurus	Kappa-casein (Fragment) OS=Bos taurus OX=9913 GN=csn3 PE=4 SV=1
+tr|Q8MII0|Q8MII0_BOVIN		9913	Bos	taurus	Lactotransferrin (Fragment) OS=Bos taurus OX=9913 PE=2 SV=1
+tr|Q9BDG3|Q9BDG3_BOVIN		9913	Bos	taurus	Beta lactoglobulin D (Fragment) OS=Bos taurus OX=9913 GN=bLG D PE=3 SV=1
+tr|Q9BDG4|Q9BDG4_BOVIN		9913	Bos	taurus	Beta lactoglobulin C (Fragment) OS=Bos taurus OX=9913 GN=bLG C PE=4 SV=1
+tr|T1T0C1|T1T0C1_BOVIN		9913	Bos	taurus	Beta-casein OS=Bos taurus OX=9913 GN=csn2 PE=2 SV=1
+tr|A0A077SL35|A0A077SL35_CAMBA		9837	Camelus	bactrianus	Beta-casein OS=Camelus bactrianus OX=9837 GN=CSN2 PE=2 SV=1
+tr|L0P304|L0P304_CAMBA		9837	Camelus	bactrianus	Kappa-casein OS=Camelus bactrianus OX=9837 GN=csn3 PE=2 SV=1
+tr|S9XE70|S9XE70_CAMFR		419612	Camelus	ferus	Lactotransferrin OS=Camelus ferus OX=419612 GN=CB1_008058008 PE=3 SV=1
+tr|S9YFK0|S9YFK0_CAMFR		419612	Camelus	ferus	Alpha-lactalbumin OS=Camelus ferus OX=419612 GN=CB1_000322017 PE=3 SV=1
+tr|A0A0P0ELX2|A0A0P0ELX2_CAPHI		9925	Capra	hircus	Alpha S1 casein (Fragment) OS=Capra hircus OX=9925 GN=CSN1S1 PE=4 SV=1
+tr|A0A0P0EVY5|A0A0P0EVY5_CAPHI		9925	Capra	hircus	Alpha S1 casein (Fragment) OS=Capra hircus OX=9925 GN=CSN1S1 PE=2 SV=1
+tr|A0A1J0R3X2|A0A1J0R3X2_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=k-CSN3 PE=4 SV=1
+tr|A0A1J0R3X6|A0A1J0R3X6_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=k-CSN3 PE=4 SV=1
+tr|A0A1J0R3X9|A0A1J0R3X9_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=k-CSN3 PE=4 SV=1
+tr|A0A1J0R3Y0|A0A1J0R3Y0_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=k-CSN3 PE=4 SV=1
+tr|A0A1J0R3Y4|A0A1J0R3Y4_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=k-CSN3 PE=4 SV=1
+tr|A0A1J0R3Y8|A0A1J0R3Y8_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=k-CSN3 PE=4 SV=1
+tr|A0SWR1|A0SWR1_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|A0SWR2|A0SWR2_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|A5JSS8|A5JSS8_CAPHI		9925	Capra	hircus	Alpha-lactalbumin OS=Capra hircus OX=9925 GN=LALBA PE=2 SV=1
+tr|I6WY32|I6WY32_CAPHI		9925	Capra	hircus	Alpha s1 casein OS=Capra hircus OX=9925 GN=CSN1S1 PE=2 SV=1
+tr|K0P7C2|K0P7C2_CAPHI		9925	Capra	hircus	K-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|L0BU95|L0BU95_CAPHI		9925	Capra	hircus	Kappa-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+sp|P00712|LALBA_CAPHI		9925	Capra	hircus	Alpha-lactalbumin OS=Capra hircus OX=9925 GN=LALBA PE=1 SV=1
+sp|P02756|LACB_CAPHI		9925	Capra	hircus	Beta-lactoglobulin OS=Capra hircus OX=9925 GN=LGB PE=1 SV=2
+sp|P18626|CASA1_CAPHI		9925	Capra	hircus	Alpha-S1-casein OS=Capra hircus OX=9925 GN=CSN1S1 PE=1 SV=2
+sp|P33048|CASB_CAPHI		9925	Capra	hircus	Beta-casein OS=Capra hircus OX=9925 GN=CSN2 PE=2 SV=1
+sp|P33049|CASA2_CAPHI		9925	Capra	hircus	Alpha-S2-casein OS=Capra hircus OX=9925 GN=CSN1S2 PE=2 SV=1
+tr|Q0GQG1|Q0GQG1_CAPHI		9925	Capra	hircus	Alpha-lactalbumin (Fragment) OS=Capra hircus OX=9925 GN=LALBA PE=4 SV=1
+sp|Q29477|TRFL_CAPHI		9925	Capra	hircus	Lactotransferrin OS=Capra hircus OX=9925 GN=LTF PE=1 SV=1
+tr|Q540J1|Q540J1_CAPHI		9925	Capra	hircus	Kappa-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q5VJR8|Q5VJR8_CAPHI		9925	Capra	hircus	Casein kappa (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q5YD57|Q5YD57_CAPHI		9925	Capra	hircus	Beta-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN2 PE=4 SV=1
+tr|Q69DK7|Q69DK7_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q69EZ6|Q69EZ6_CAPHI		9925	Capra	hircus	CSCN1 OS=Capra hircus OX=9925 PE=2 SV=1
+tr|Q712N8|Q712N8_CAPHI		9925	Capra	hircus	Beta-casein OS=Capra hircus OX=9925 GN=csn2 PE=3 SV=1
+tr|Q7YRV2|Q7YRV2_CAPHI		9925	Capra	hircus	Kappa casein (Fragment) OS=Capra hircus OX=9925 PE=4 SV=1
+tr|Q7YRX2|Q7YRX2_CAPHI		9925	Capra	hircus	Kappa-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q7YRX3|Q7YRX3_CAPHI		9925	Capra	hircus	Kappa-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q7YRX4|Q7YRX4_CAPHI		9925	Capra	hircus	Kappa-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q7YRX5|Q7YRX5_CAPHI		9925	Capra	hircus	Kappa-casein (Fragment) OS=Capra hircus OX=9925 GN=CSN3 PE=4 SV=1
+tr|Q95L76|Q95L76_CAPHI		9925	Capra	hircus	Beta-casein OS=Capra hircus OX=9925 GN=csn2 PE=3 SV=1
+tr|Q9XSL1|Q9XSL1_CAPHI		9925	Capra	hircus	Alpha s2-casein (Fragment) OS=Capra hircus OX=9925 GN=csn1s2 PE=4 SV=1
+tr|A0A1D9CF79|A0A1D9CF79_EQUAS		9793	Equus	asinus	Beta-lactoglobulin II (Fragment) OS=Equus asinus OX=9793 GN=BLG II PE=3 SV=1
+tr|B1PLB8|B1PLB8_EQUAS		9793	Equus	asinus	Kappa casein (Fragment) OS=Equus asinus OX=9793 GN=CSN3 PE=4 SV=1
+sp|B7VGF9|CASA2_EQUAS		9793	Equus	asinus	Alpha-S2-casein OS=Equus asinus OX=9793 GN=CSN1S2 PE=1 SV=1
+tr|D2EC27|D2EC27_EQUAS		9793	Equus	asinus	Beta-casein OS=Equus asinus OX=9793 GN=csn2 PE=3 SV=1
+sp|P13613|LACB1_EQUAS		9793	Equus	asinus	Beta-lactoglobulin-1 OS=Equus asinus OX=9793 GN=LGB1 PE=1 SV=1
+sp|P19647|LACB2_EQUAS		9793	Equus	asinus	Beta-lactoglobulin-2 OS=Equus asinus OX=9793 GN=LGB2 PE=1 SV=1
+sp|P28546|LALBA_EQUAS		9793	Equus	asinus	Alpha-lactalbumin OS=Equus asinus OX=9793 GN=LALBA PE=1 SV=1
+sp|P86272|CASA1_EQUAS		9793	Equus	asinus	Alpha-S1-casein OS=Equus asinus OX=9793 GN=CSN1S1 PE=1 SV=1
+sp|P86273|CASB_EQUAS		9793	Equus	asinus	Beta-casein OS=Equus asinus OX=9793 GN=CSN2 PE=1 SV=1
+tr|A0A0C5DH76|A0A0C5DH76_HORSE		9796	Equus	caballus	Alpha-S2-casein variant A OS=Equus caballus OX=9796 GN=CSN1S2 PE=2 SV=1
+tr|D2KAS0|D2KAS0_HORSE		9796	Equus	caballus	Alpha-S2-casein variant B OS=Equus caballus OX=9796 GN=CSN1S2 PE=2 SV=1
+tr|F6QKG6|F6QKG6_HORSE		9796	Equus	caballus	Beta-lactoglobulin-2 OS=Equus caballus OX=9796 GN=LGB2 PE=3 SV=2
+tr|F6V8C8|F6V8C8_HORSE		9796	Equus	caballus	Lactalbumin alpha OS=Equus caballus OX=9796 GN=LALBA PE=3 SV=2
+tr|F7DGH6|F7DGH6_HORSE		9796	Equus	caballus	Casein alpha s1 OS=Equus caballus OX=9796 GN=CSN1S1 PE=4 SV=2
+sp|O77811|TRFL_HORSE		9796	Equus	caballus	Lactotransferrin (Fragment) OS=Equus caballus OX=9796 GN=LTF PE=1 SV=1
+sp|P02758|LACB1_HORSE		9796	Equus	caballus	Beta-lactoglobulin-1 OS=Equus caballus OX=9796 GN=LGB1 PE=1 SV=3
+sp|P07380|LACB2_HORSE		9796	Equus	caballus	Beta-lactoglobulin-2 OS=Equus caballus OX=9796 GN=LGB2 PE=1 SV=3
+sp|P08334|LALB1_HORSE		9796	Equus	caballus	Alpha-lactalbumin A OS=Equus caballus OX=9796 PE=1 SV=2
+sp|P08896|LALB2_HORSE		9796	Equus	caballus	Alpha-lactalbumin B/C OS=Equus caballus OX=9796 PE=1 SV=1
+sp|P82187|CASK_HORSE		9796	Equus	caballus	Kappa-casein OS=Equus caballus OX=9796 GN=CSN3 PE=1 SV=2
+tr|Q8SPR1|Q8SPR1_HORSE		9796	Equus	caballus	Alpha s1 casein OS=Equus caballus OX=9796 PE=2 SV=1
+tr|Q95KZ7|Q95KZ7_HORSE		9796	Equus	caballus	AlphaS1-casein OS=Equus caballus OX=9796 PE=2 SV=1
+sp|Q9GKK3|CASB_HORSE		9796	Equus	caballus	Beta-casein OS=Equus caballus OX=9796 GN=CSN2 PE=1 SV=3
+tr|B2MV14|B2MV14_HUMAN		9606	Homo	sapiens	Truncated lactoferrin OS=Homo sapiens OX=9606 GN=LTF PE=3 SV=1
+tr|C9JCF5|C9JCF5_HUMAN		9606	Homo	sapiens	Lactotransferrin (Fragment) OS=Homo sapiens OX=9606 GN=LTF PE=1 SV=1
+tr|E7EQB2|E7EQB2_HUMAN		9606	Homo	sapiens	Lactotransferrin (Fragment) OS=Homo sapiens OX=9606 GN=LTF PE=1 SV=1
+tr|E7ER44|E7ER44_HUMAN		9606	Homo	sapiens	Lactotransferrin OS=Homo sapiens OX=9606 GN=LTF PE=1 SV=1
+tr|A0A1V0CM03|A0A1V0CM03_SHEEP		9940	Ovis	aries	Alpha-lactalbumin (Fragment) OS=Ovis aries OX=9940 GN=LALBA PE=4 SV=1
+tr|D2DRB7|D2DRB7_SHEEP		9940	Ovis	aries	Alpha-s1-casein variant OS=Ovis aries OX=9940 GN=CSN1S1 PE=2 SV=1
+tr|D3TU01|D3TU01_SHEEP		9940	Ovis	aries	Alpha s1 casein variant OS=Ovis aries OX=9940 GN=CSN1S1 PE=2 SV=1
+tr|E7BQS2|E7BQS2_SHEEP		9940	Ovis	aries	Alpha-s2-casein OS=Ovis aries OX=9940 GN=CSN1S2 PE=2 SV=1
+tr|E7BQS3|E7BQS3_SHEEP		9940	Ovis	aries	Alpha-s2-casein OS=Ovis aries OX=9940 GN=CSN1S2 PE=2 SV=1
+tr|E7BQS4|E7BQS4_SHEEP		9940	Ovis	aries	Alpha-s2-casein OS=Ovis aries OX=9940 GN=CSN1S2 PE=2 SV=1
+tr|E7BQS5|E7BQS5_SHEEP		9940	Ovis	aries	Alpha-s2-casein OS=Ovis aries OX=9940 GN=CSN1S2 PE=2 SV=1
+tr|E7BQS8|E7BQS8_SHEEP		9940	Ovis	aries	Alpha-s2-casein (Fragment) OS=Ovis aries OX=9940 GN=CSN1S2 PE=4 SV=1
+tr|G3LUQ4|G3LUQ4_SHEEP		9940	Ovis	aries	Alpha-S1-casein OS=Ovis aries OX=9940 GN=CSN1S1 PE=4 SV=1
+sp|P02669|CASK_SHEEP		9940	Ovis	aries	Kappa-casein OS=Ovis aries OX=9940 GN=CSN3 PE=1 SV=2
+sp|P04653|CASA1_SHEEP		9940	Ovis	aries	Alpha-S1-casein OS=Ovis aries OX=9940 GN=CSN1S1 PE=1 SV=3
+sp|P04654|CASA2_SHEEP		9940	Ovis	aries	Alpha-S2-casein OS=Ovis aries OX=9940 GN=CSN1S2 PE=2 SV=1
+sp|P11839|CASB_SHEEP		9940	Ovis	aries	Beta-casein OS=Ovis aries OX=9940 GN=CSN2 PE=1 SV=3
+sp|P67976|LACB_SHEEP		9940	Ovis	aries	Beta-lactoglobulin-1/B OS=Ovis aries OX=9940 PE=1 SV=1
+tr|Q5C9G1|Q5C9G1_SHEEP		9940	Ovis	aries	Kappa casein (Fragment) OS=Ovis aries OX=9940 GN=Kcas PE=4 SV=1
+tr|Q9XSC0|Q9XSC0_SHEEP		9940	Ovis	aries	Beta-lactoglobulin C (Fragment) OS=Ovis aries OX=9940 GN=LGB PE=4 SV=1
+tr|W5PFP1|W5PFP1_SHEEP		9940	Ovis	aries	Uncharacterized protein OS=Ovis aries OX=9940 GN=LTF PE=3 SV=1
+tr|W5QD52|W5QD52_SHEEP		9940	Ovis	aries	Alpha-lactalbumin OS=Ovis aries OX=9940 GN=LALBA PE=3 SV=1
+sp|Q95239|CASK_RANTA		9870	Rangifer	tarandus	Kappa-casein (Fragment) OS=Rangifer tarandus OX=9870 GN=CSN3 PE=2 SV=1
+tr|Q00P86|Q00P86_RANTA		86329	Rangifer	tarandus	Beta-lactoglobulin OS=Rangifer tarandus tarandus OX=86329 PE=1 SV=1
