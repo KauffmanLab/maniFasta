@@ -101,6 +101,6 @@ Current AllOralsDB releases and their associated documentation are available fro
 
 ## Citation and contributors
 
-When using maniFasta or AllOralsDB, please cite our preprint (bioRxiv link coming soon!), as well as the original references for any prepackaged sources included in your database.
+When using maniFasta or AllOralsDB, please cite our [preprint](https://www.biorxiv.org/content/10.64898/2026.08.08.739415v1), as well as the original references for any prepackaged sources included in your database.
 
 maniFasta was developed by [Christopher Handelmann](https://scholar.google.com/citations?user=1WPxKpsAAAAJ&hl=en&oi=ao), [Ashley K. Miles](https://akmiles-code.github.io/), and [Kathryn M. Kauffman](https://kauffmanlab.org/)
