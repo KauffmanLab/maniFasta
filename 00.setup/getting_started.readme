@@ -1,7 +1,8 @@
 Hello User,
 
 We are glad you are using maniFasta! 
- 
+
+
 Here are a few key things you need to know to run maniFasta:
 
  1) If you wish to include your own inputs for any of the modules (e.g. list of proteome or genome accessions for Mod I, list of protein accessions for Mod II, FASTA files for Mod III along with optional metadata), then you will need to:
